@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a **Software Developer** specializing in crafting resp
    - **Description:** A full-stack e-commerce solution featuring product listings, a shopping cart, and secure payment integration.  
    - **Technologies Used:** PHP, Javascript, MySQL, CSS, Bootstrap CSS  
 
-2. **[Food App Website](Link to Project)**  
+2. **[Food App Website](https://github.com/tabpaddy/react_foodApp)**  
    - **Description:** A Food Application website to featuring different recipes . Fully responsive and built with modern design principles.  
    - **Technologies Used:** React.js, Tailwind CSS, Spantacular Api 
 
